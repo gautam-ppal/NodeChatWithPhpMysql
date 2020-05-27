@@ -12,10 +12,7 @@
 
 </head>
 <body>
-<div class="jumbotron text-center">
-  <h1>My First Bootstrap Page</h1>
-  <p>Resize this responsive page to see the effect!</p> 
-</div>
+
 
     <div class="container">
         <form class="form" onsubmit="return EnterUserName()" >
